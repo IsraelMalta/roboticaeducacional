@@ -1,4 +1,4 @@
-**## Robótica Educacional: Seu Portal para o Mundo dos Robôs!** - Imersão Dev com Google Gemini
+**## Robótica Educacional: Seu Portal para o Mundo dos Robôs!** - Imersão Dev Alura com Google Gemini
 
 ###  Sobre o Projeto
 
