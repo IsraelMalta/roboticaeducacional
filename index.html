@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Robótica Educacional</title>
+</head>
+<body>
+    <header>
+        <h1>Ensino de Robótica na Escola</h1>
+    </header>
+    <main>
+        <section>
+          <input type="text" placeholder="Digite o nome do assunto" id="campo-pesquisa">
+          <button onclick="pesquisar()">Pesquisar</button>
+
+        <!-- Abaixo outra forma de colocar o botão, porém ficou muito grande-->  
+        <!--<form>
+            <label for="busca">Digite o assunto:</label>
+            <input type="text" id="busca" name="busca">
+            <input type="submit" value="Pesquisar">
+          </form>-->
+
+        </section>  
+        <section class="resultados-pesquisa"
+        id = "resultados-pesquisa">
+        </section>
+        
+    </main>
+    <footer>
+        <p>2024 - Ensino de Robótica na Escola. Todos os direitos reservados</p>
+        <p>Entre em contato: malta@ensinoderoboticanaescola.com.br</p>
+    </footer>
+    <script src="dados.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
