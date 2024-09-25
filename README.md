@@ -50,7 +50,9 @@ Este projeto está disponível sob a licença [Escolha a licença aqui, por exem
 
 Agradeço à comunidade open-source por todo o conhecimento compartilhado e à minha mãe por me deixar desmontar todos os brinquedos quando era criança. 
 
-**Vamos juntos construir um futuro mais robótico!**
+**Vamos juntos constribuir para educação em nosso País!**
+
+**Link para a aplicação Vercel: https://roboticaeducacional.vercel.app/**
 
 
 
